@@ -1,4 +1,4 @@
-! [new image]("https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/program-user-image/1650482414979-linux-%283%29.png")
+! [new image](https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/program-user-image/1650482414979-linux-%283%29.png)
 # My cloudops journey february with ts4u IT traning center
 
 This is my new repository where I will keep my all info
